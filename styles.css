@@ -4,10 +4,11 @@
 }
 .book-library{
     background-color: #ffffff;
+	box-shadow:0 4px 8px rgb(46,205,113);
 }
 .book-author{
     color:#777777;
 }
 .book-price{
-    background-color: rgb(46, 204, 113);
+    background-color: #2ecc71;
 }

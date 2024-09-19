@@ -12,7 +12,7 @@
 .book-author{
     color:#777777;
 }
-.book-price{
+.book-price .dark-mode{
     color: #2ecc71;
 	font-size:16px;
 	font-weight:bold;

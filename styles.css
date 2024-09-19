@@ -8,7 +8,6 @@
 .book-author{
     color:#777777;
 }
-.book-price{
-    background-color: #2ecc71;
-	box-shadow:0 4px 8px rgb(46,205,113);
+.price-block{
+    color: #2ecc71;
 }
